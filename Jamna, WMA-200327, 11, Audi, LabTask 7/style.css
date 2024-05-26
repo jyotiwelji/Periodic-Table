@@ -1,0 +1,60 @@
+.whole {
+    border: 1px;
+    margin: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 1000px;
+    text-align: center;
+
+}
+
+.head {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(20, 20, 20);
+    letter-spacing: 2px;
+
+}
+
+.grey {
+    background-color: rgb(189, 188, 188);
+
+}
+
+.peach {
+    background-color: lightcoral;
+    color: rgb(1, 85, 1);
+}
+
+.purple {
+    background-color: rgb(202, 139, 218);
+}
+
+.blue {
+    background-color: rgb(129, 168, 240);
+}
+
+.yellow {
+    background-color: rgb(252, 228, 168);
+}
+
+.green {
+    background-color: rgb(176, 231, 176);
+}
+
+.brown {
+    background-color: rgb(180, 118, 74);
+}
+
+.bg {
+    background-color: rgb(253, 222, 183);
+}
+
+.lp {
+    background-color: rgb(195, 174, 235);
+
+}
+
+.lb {
+    background-color: rgb(151, 238, 238);
+}
